@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-color"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Работа с цветами: HEX, RGB, контраст."
+    репозиторий = "github.com/skytech-alt/skyforge-color"
+    точка_входа = "code/main.skf"
+    теги = ["color", "ui", "design"]
+    лицензия = "MIT"
+    зависимости = []
+}
